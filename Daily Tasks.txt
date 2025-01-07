@@ -1,0 +1,26 @@
+Q.1 Calculate the multiplication and sum of two numbers.
+x=int(input("Enter first number"));
+y = int(input("Enter second number"));
+print("Multiplication * y)
+print("Sum:",x + y)
+
+
+Q.2 Declare two variables and print that which variable is largest using ternary operators.
+a = int(input("Enter first number:"))
+b = int(input("Enter second number:"))
+print("Larger:", a if > b else b)
+
+
+Q.3.Python program to convert the temperature in degree centigrade to Fahrenheit.
+y = float(input("Enter temperature in Celcius: "))
+z = (c * 9/5) + 32
+print("Fahrenheit: ", f)
+
+
+Q.4.Python program to find the area of a triangle whose sides are given
+a = float(input("Enter first side: ")) 
+b = float(input("Enter second side: ")) 
+c = float(input("Enter third side: ")) 
+y = (a + b + c)/2
+area = (x * (x - a) * (x - b) * (x - c)) ** 0.5
+print("Area:",area)
